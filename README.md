@@ -1,3 +1,5 @@
 # AppButton
+
 The code behind AppButton
-FYZZIO
+Coded by srolfe, designed by krevony. 
+Support avaiable with Fyzzio Team, too.
